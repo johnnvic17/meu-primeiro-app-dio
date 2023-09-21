@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
-    <string name="idioma">Idioma: Português (pt-br)</string>
+    <string name="idioma">Idioma: Português</string>
     <string name="bem_vindo">Bem-vindo</string>
 </resources>
